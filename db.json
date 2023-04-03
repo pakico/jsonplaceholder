@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Primer post" },
+    { "id": 2, "title": "Segundo post" },
+    { "id": 3, "title": "Tercer post" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Comentario 1 de post 1", "postId": 1 },
+    { "id": 2, "body": "Comentario 2 de post 1", "postId": 1 }
+  ],
+  "profile": {
+    "name": "pakico"
+  }
+}
